@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vitoramorais@hotmail.com
+	name = vitor morais
